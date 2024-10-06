@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Taxist</string>
+    <string name="try_again">Try again</string>
+    <string name="ok">Ok</string>
+    <string name="close">Close</string>
+    <string name="confirm">Confirm</string>
+    <string name="choose_a_driver">Choose a driver</string>
+    <string name="cancel">Cancel</string>
+    <string name="attention">Look out</string>
+    <string name="name">Name</string>
+    <string name="car">Car</string>
+
+    <string name="error">An error occurred</string>
+    <string name="problem">Problem</string>
+
+    <string name="make_a_route">Make a route</string>
+    <string name="price">Price</string>
+    <string name="where_do_we_go_from">Where do we go from ?</string>
+    <string name="where_are_we_going">Where are we going ?</string>
+    <string name="enter_point_of_arrival">Enter the point of arrival</string>
+    <string name="enter_departure_point">Enter the departure point</string>
+    <string name="change">Change</string>
+    <string name="tariff">Tariff</string>
+    <string name="driver">Driver</string>
+    <string name="per_km">per km</string>
+    <string name="vasyl">Vasyl</string>
+
+    <string name="all_types">All types</string>
+    <string name="sedan">Sedan</string>
+    <string name="coupe">Coupe</string>
+    <string name="crossover">Сrossover</string>
+    <string name="station_wagon">Station wagon</string>
+    <string name="hatchback">Hatchback</string>
+    <string name="minivan">Minivan</string>
+
+    <string name="we_cannot_get_your_location">We cannot determine your geolocation because you have not granted permission</string>
+    <string name="internet_error">No internet connection</string>
+    <string name="select_driver_message">Please select a driver</string>
+    <string name="permission_location_description">We need this permission to look for places near you.</string>
+    <string name="we_need_location_permission_description">We need permission to geolocate so you can choose your location.</string>
+    <string name="sorry_we_didnt_find_driver">Sorry we didn\'t find the driver</string>
+    <string name="error_text_only_numbers">Text should only be numbers</string>
+    <string name="image_of_driver">Image of driver</string>
+    <string name="drivers_car">Driver\'s car</string>
+    <string name="driver_fare">Driver fare</string>
+    <string name="name_of_driver">Name of driver</string>
+    <string name="card_explanation">You can also expand the card and beat the price for a large and, small distance.</string>
+    <string name="price_explanation">Look out! For special cases, the price will also be non-standard. Talk to the driver about the price.</string>
+    <string name="fare_explanation">The average distance (tariff) is valid for trips from 5 to 10 kilometers.</string>
+    <string name="enter_text">Enter text</string>
+    <string name="search_for">Search for</string>
+    <string name="transport_type">Transport type</string>
+    <string name="your_location">Your location</string>
+
+    <string name="km">km</string>
+    <string name="experience">Experience</string>
+    <string name="years">years</string>
+    <string name="rating">Rating</string>
+    <string name="type_of_body">Type_of_body</string>
+    <string name="phone_number">Phone number</string>
+
+    <string name="created_by">Created by Orest Tretiak©</string>
+    <string name="created_for">for portfolio 12.09.2024</string>
+</resources>

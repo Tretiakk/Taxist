@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="try_again">Erneut versuchen</string>
+    <string name="ok">Ok</string>
+    <string name="close">Schließen</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="choose_a_driver">Wählen Sie einen Fahrer</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="attention">Achtung</string>
+    <string name="name">Name</string>
+    <string name="car">Auto</string>
+
+    <string name="error">Ein Fehler ist aufgetreten</string>
+    <string name="problem">Problem</string>
+
+    <string name="make_a_route">Route erstellen</string>
+    <string name="price">Preis</string>
+    <string name="where_do_we_go_from">Wohin fahren wir ab?</string>
+    <string name="where_are_we_going">Wohin fahren wir?</string>
+    <string name="enter_point_of_arrival">Zielort eingeben</string>
+    <string name="enter_departure_point">Abfahrtsort eingeben</string>
+    <string name="change">Ändern</string>
+    <string name="tariff">Tarif</string>
+    <string name="driver">Fahrer</string>
+    <string name="per_km">pro km</string>
+    <string name="vasyl">Vasyl</string>
+
+    <string name="all_types">Alle Typen</string>
+    <string name="sedan">Limousine</string>
+    <string name="coupe">Coupé</string>
+    <string name="crossover">Crossover</string>
+    <string name="station_wagon">Kombi</string>
+    <string name="hatchback">Schrägheck</string>
+    <string name="minivan">Minivan</string>
+
+    <string name="we_cannot_get_your_location">Wir können Ihren Standort nicht bestimmen, weil Sie keine Erlaubnis erteilt haben</string>
+    <string name="internet_error">Keine Internetverbindung</string>
+    <string name="select_driver_message">Bitte wählen Sie einen Fahrer</string>
+    <string name="permission_location_description">Wir benötigen diese Erlaubnis, um nach Orten in Ihrer Nähe zu suchen.</string>
+    <string name="we_need_location_permission_description">Wir benötigen die Erlaubnis zur Geolokalisierung, damit Sie Ihren Standort auswählen können.</string>
+    <string name="sorry_we_didnt_find_driver">Entschuldigung, wir haben keinen Fahrer gefunden</string>
+    <string name="error_text_only_numbers">Text darf nur Zahlen enthalten</string>
+    <string name="image_of_driver">Bild des Fahrers</string>
+    <string name="drivers_car">Auto des Fahrers</string>
+    <string name="driver_fare">Fahrerpreis</string>
+    <string name="name_of_driver">Name des Fahrers</string>
+    <string name="card_explanation">Sie können die Karte auch erweitern und den Preis für kurze und lange Strecken schlagen.</string>
+    <string name="price_explanation">Achtung! In speziellen Fällen ist der Preis nicht standardmäßig. Sprechen Sie mit dem Fahrer über den Preis.</string>
+    <string name="fare_explanation">Die Durchschnittsentfernung (Tarif) gilt für Fahrten von 5 bis 10 Kilometern.</string>
+    <string name="enter_text">Text eingeben</string>
+    <string name="search_for">Suchen nach</string>
+    <string name="transport_type">Transportart</string>
+    <string name="your_location">Ihr Standort</string>
+
+    <string name="km">km</string>
+    <string name="experience">Erfahrung</string>
+    <string name="years">Jahre</string>
+    <string name="rating">Bewertung</string>
+    <string name="type_of_body">Karosserietyp</string>
+    <string name="phone_number">Telefonnummer</string>
+
+    <string name="created_by">Erstellt von Orest Tretiak©</string>
+    <string name="created_for">für Portfolio 12.09.2024</string>
+</resources>

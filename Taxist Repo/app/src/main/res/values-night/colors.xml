@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black15">#151515</color>
+    <color name="black20">#202020</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteF2">#F2F2F2</color>
+    <color name="whiteDB15">#151515</color>
+    <color name="black15WF2">#F2F2F2</color>
+    <color name="black20WF2">#F2F2F2</color>
+    <color name="whiteDB30">#303030</color>
+    <color name="whiteE9B2C">#2C2C2C</color>
+    <color name="whiteF2B20">#202020</color>
+    <color name="whiteF2B15">#151515</color>
+    <color name="taxi">#FFBC3A</color>
+</resources>

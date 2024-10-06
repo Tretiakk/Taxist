@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Taxist</string>
+    <string name="try_again">Spróbuj ponownie</string>
+    <string name="ok">Ok</string>
+    <string name="close">Zamknij</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="choose_a_driver">Wybierz kierowcę</string>
+    <string name="cancel">Anuluj</string>
+    <string name="attention">Uwaga</string>
+    <string name="name">Imię</string>
+    <string name="car">Samochód</string>
+
+    <string name="error">Wystąpił błąd</string>
+    <string name="problem">Problem</string>
+
+    <string name="make_a_route">Wyznacz trasę</string>
+    <string name="price">Cena</string>
+    <string name="where_do_we_go_from">Skąd jedziemy?</string>
+    <string name="where_are_we_going">Dokąd jedziemy?</string>
+    <string name="enter_point_of_arrival">Wprowadź punkt docelowy</string>
+    <string name="enter_departure_point">Wprowadź punkt odjazdu</string>
+    <string name="change">Zmień</string>
+    <string name="tariff">Taryfa</string>
+    <string name="driver">Kierowca</string>
+    <string name="per_km">za km</string>
+    <string name="vasyl">Vasyl</string>
+
+    <string name="all_types">Wszystkie typy</string>
+    <string name="sedan">Sedan</string>
+    <string name="coupe">Coupe</string>
+    <string name="crossover">Crossover</string>
+    <string name="station_wagon">Kombi</string>
+    <string name="hatchback">Hatchback</string>
+    <string name="minivan">Minivan</string>
+
+    <string name="we_cannot_get_your_location">Nie możemy ustalić twojej geolokalizacji, ponieważ nie udzieliłeś(aś) zgody</string>
+    <string name="internet_error">Brak połączenia z internetem</string>
+    <string name="select_driver_message">Proszę wybrać kierowcę</string>
+    <string name="permission_location_description">Potrzebujemy tej zgody, aby szukać miejsc w pobliżu ciebie.</string>
+    <string name="we_need_location_permission_description">Potrzebujemy zgody na geolokalizację, abyś mógł(a) wybrać swoją lokalizację.</string>
+    <string name="sorry_we_didnt_find_driver">Przepraszamy, nie znaleźliśmy kierowcy</string>
+    <string name="error_text_only_numbers">Tekst powinien zawierać tylko liczby</string>
+    <string name="image_of_driver">Zdjęcie kierowcy</string>
+    <string name="drivers_car">Samochód kierowcy</string>
+    <string name="driver_fare">Opłata kierowcy</string>
+    <string name="name_of_driver">Imię kierowcy</string>
+    <string name="card_explanation">Możesz także rozwinąć kartę i ustalić cenę na długą i krótką odległość.</string>
+    <string name="price_explanation">Uwaga! W wyjątkowych przypadkach cena również będzie niestandardowa. Porozmawiaj z kierowcą o cenie.</string>
+    <string name="fare_explanation">Średnia odległość (taryfa) dotyczy podróży od 5 do 10 kilometrów.</string>
+    <string name="enter_text">Wprowadź tekst</string>
+    <string name="search_for">Szukaj</string>
+    <string name="transport_type">Typ transportu</string>
+    <string name="your_location">Twoja lokalizacja</string>
+
+    <string name="km">km</string>
+    <string name="experience">Doświadczenie</string>
+    <string name="years">lata</string>
+    <string name="rating">Ocena</string>
+    <string name="type_of_body">Typ nadwozia</string>
+    <string name="phone_number">Numer telefonu</string>
+
+    <string name="created_by">Stworzone przez Oresta Tretiaka©</string>
+    <string name="created_for">dla portfolio 12.09.2024</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="try_again">Intentar de nuevo</string>
+    <string name="ok">Ok</string>
+    <string name="close">Cerrar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="choose_a_driver">Elige un conductor</string>
+    <string name="cancel">Cancelar</string>
+    <string name="attention">Atención</string>
+    <string name="name">Nombre</string>
+    <string name="car">Coche</string>
+
+    <string name="error">Ocurrió un error</string>
+    <string name="problem">Problema</string>
+
+    <string name="make_a_route">Hacer una ruta</string>
+    <string name="price">Precio</string>
+    <string name="where_do_we_go_from">¿De dónde partimos?</string>
+    <string name="where_are_we_going">¿A dónde vamos?</string>
+    <string name="enter_point_of_arrival">Ingresa el punto de llegada</string>
+    <string name="enter_departure_point">Ingresa el punto de salida</string>
+    <string name="change">Cambiar</string>
+    <string name="tariff">Tarifa</string>
+    <string name="driver">Conductor</string>
+    <string name="per_km">por km</string>
+    <string name="vasyl">Vasyl</string>
+
+    <string name="all_types">Todos los tipos</string>
+    <string name="sedan">Sedán</string>
+    <string name="coupe">Coupé</string>
+    <string name="crossover">Crossover</string>
+    <string name="station_wagon">Familiar</string>
+    <string name="hatchback">Hatchback</string>
+    <string name="minivan">Minivan</string>
+
+    <string name="we_cannot_get_your_location">No podemos determinar tu ubicación geográfica porque no has concedido permiso</string>
+    <string name="internet_error">Sin conexión a Internet</string>
+    <string name="select_driver_message">Por favor, selecciona un conductor</string>
+    <string name="permission_location_description">Necesitamos este permiso para buscar lugares cerca de ti.</string>
+    <string name="we_need_location_permission_description">Necesitamos el permiso para geolocalizar y que puedas elegir tu ubicación.</string>
+    <string name="sorry_we_didnt_find_driver">Lo sentimos, no encontramos conductor</string>
+    <string name="error_text_only_numbers">El texto solo debe contener números</string>
+    <string name="image_of_driver">Imagen del conductor</string>
+    <string name="drivers_car">Coche del conductor</string>
+    <string name="driver_fare">Tarifa del conductor</string>
+    <string name="name_of_driver">Nombre del conductor</string>
+    <string name="card_explanation">También puedes expandir la tarjeta y ajustar el precio para distancias largas y cortas.</string>
+    <string name="price_explanation">¡Cuidado! En casos especiales, el precio también será no estándar. Habla con el conductor sobre el precio.</string>
+    <string name="fare_explanation">La distancia media (tarifa) es válida para viajes de 5 a 10 kilómetros.</string>
+    <string name="enter_text">Introducir texto</string>
+    <string name="search_for">Buscar</string>
+    <string name="transport_type">Tipo de transporte</string>
+    <string name="your_location">Tu ubicación</string>
+
+    <string name="km">km</string>
+    <string name="experience">Experiencia</string>
+    <string name="years">años</string>
+    <string name="rating">Calificación</string>
+    <string name="type_of_body">Tipo de carrocería</string>
+    <string name="phone_number">Número de teléfono</string>
+
+    <string name="created_by">Creado por Orest Tretiak©</string>
+    <string name="created_for">para portafolio 12.09.2024</string>
+</resources>

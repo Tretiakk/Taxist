@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Taxist</string>
+    <string name="try_again">Спробуйте ще раз</string>
+    <string name="ok">Ok</string>
+    <string name="close">Закрити</string>
+    <string name="confirm">Підтвердити</string>
+    <string name="choose_a_driver">Виберіть водія</string>
+    <string name="cancel">Скасувати</string>
+    <string name="attention">Увага</string>
+    <string name="name">Ім\'я</string>
+    <string name="car">Автомобіль</string>
+
+    <string name="error">Сталася помилка</string>
+    <string name="problem">Проблема</string>
+
+    <string name="make_a_route">Прокласти маршрут</string>
+    <string name="price">Ціна</string>
+    <string name="where_do_we_go_from">Звідки ми їдемо?</string>
+    <string name="where_are_we_going">Куди ми їдемо?</string>
+    <string name="enter_point_of_arrival">Введіть пункт прибуття</string>
+    <string name="enter_departure_point">Введіть пункт відправлення</string>
+    <string name="change">Змінити</string>
+    <string name="tariff">Тариф</string>
+    <string name="driver">Водій</string>
+    <string name="per_km">за км</string>
+    <string name="vasyl">Василь</string>
+
+    <string name="all_types">Усі типи</string>
+    <string name="sedan">Седан</string>
+    <string name="coupe">Купе</string>
+    <string name="crossover">Кросовер</string>
+    <string name="station_wagon">Універсал</string>
+    <string name="hatchback">Хетчбек</string>
+    <string name="minivan">Мінівен</string>
+
+    <string name="we_cannot_get_your_location">Ми не можемо визначити вашу геолокацію, оскільки ви не надали дозвіл</string>
+    <string name="internet_error">Немає підключення до інтернету</string>
+    <string name="select_driver_message">Будь ласка, виберіть водія</string>
+    <string name="permission_location_description">Нам потрібен цей дозвіл, щоб шукати місця поруч із вами.</string>
+    <string name="we_need_location_permission_description">Нам потрібен дозвіл на геолокацію, щоб ви могли вибрати своє місце розташування.</string>
+    <string name="sorry_we_didnt_find_driver">Вибачте, ми не знайшли водія</string>
+    <string name="error_text_only_numbers">Текст повинен містити тільки цифри</string>
+    <string name="image_of_driver">Зображення водія</string>
+    <string name="drivers_car">Автомобіль водія</string>
+    <string name="driver_fare">Вартість поїздки водія</string>
+    <string name="name_of_driver">Ім\'я водія</string>
+    <string name="card_explanation">Ви також можете розгорнути картку та змінити ціну для великої та малої відстані.</string>
+    <string name="price_explanation">Увага! У виняткових випадках ціна також буде нестандартною. Узгоджуйте ціну з водієм.</string>
+    <string name="fare_explanation">Середня відстань (тариф) діє для поїздок від 5 до 10 кілометрів.</string>
+    <string name="enter_text">Введіть текст</string>
+    <string name="search_for">Шукати</string>
+    <string name="transport_type">Тип транспорту</string>
+    <string name="your_location">Ваше місце розташування</string>
+
+    <string name="km">км</string>
+    <string name="experience">Досвід</string>
+    <string name="years">роки</string>
+    <string name="rating">Рейтинг</string>
+    <string name="type_of_body">Тип кузова</string>
+    <string name="phone_number">Номер телефону</string>
+
+    <string name="created_by">Створено Оресом Третяком©</string>
+    <string name="created_for">для портфоліо 12.09.2024</string>
+</resources>
