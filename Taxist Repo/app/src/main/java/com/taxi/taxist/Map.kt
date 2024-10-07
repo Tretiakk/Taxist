@@ -387,8 +387,10 @@ class Map : AppCompatActivity() {
                 if (request.all { it.isDigit() }){
                     finalList = searchForBodyesList
 
-                    finalList.sortBy { driver ->
-                        Math.abs(request.toInt() - driver.tariffM)
+                    if (request.isNotEmpty()) {
+                        finalList.sortBy { driver ->
+                            Math.abs(request.toInt() - driver.tariffM)
+                        }
                     }
                 } else {
                     Utils.message(
