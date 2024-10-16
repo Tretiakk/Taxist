@@ -22,7 +22,7 @@ _This app was created to showcase my skills._
 ![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Main.png)
 
 **Drivers menu**
-![Main Image](https://github.com/Tretiakk/Taxist/blob/main/DriversList.png)
+![Main Image](https://github.com/Tretiakk/Taxist/blob/main/DriverList.png)
 
 **Info menu**
 ![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Info.png)
