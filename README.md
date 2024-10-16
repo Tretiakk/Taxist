@@ -1,4 +1,4 @@
-# Taxist App &copy
+# Taxist App ©
 
 _When the app is opened_, it requests permission to access the user’s location, so it can later be used as the starting point.
 
@@ -17,3 +17,5 @@ ________________________
 
 _This app was created to showcase my skills._
 **_Orest Tretiak._**
+
+![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Main.png)
