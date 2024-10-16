@@ -18,15 +18,15 @@ ________________________
 _This app was created to showcase my skills._
 **_Orest Tretiak._**
 
-###Main menu
+### Main menu
 ![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Main.png)
 
-###Drivers menu
+### Drivers menu
 ![Main Image](https://github.com/Tretiakk/Taxist/blob/main/DriverList.png)
 
-###Info menu
+### Info menu
 ![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Info.png)
 
-###Network error
+### Network error
 ![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Network.png)
 
