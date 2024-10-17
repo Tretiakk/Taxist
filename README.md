@@ -12,6 +12,8 @@ If something is unclear, you can click on the exclamation mark in the bottom-rig
 
 If there is no internet connection, the app will display a connection error, which will disappear once the connection is restored.
 
+App Fully supports German, English, Spanish, French, Polish, and Ukrainian languages.
+
 ________________________
 
 
