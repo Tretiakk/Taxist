@@ -20,7 +20,7 @@ ________________________
 _This app was created to showcase my skills._
 **_Orest Tretiak._**
 
-# [Download app (only for android)](https://drive.google.com/file/d/1UUlUY-ZCSFx4d48TGSWzDtAtzYyTMvrz/view?usp=drive_link)
+# [Download app (only for android)](https://drive.google.com/file/d/1SSOPou_SHYa817k666PVwBdlWqPcDThR/view?usp=drive_link)
 
 ## [Video demonstration](https://www.youtube.com/watch?v=kHWMUHJNE88)
 
