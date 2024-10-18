@@ -20,8 +20,7 @@ ________________________
 _This app was created to showcase my skills._
 **_Orest Tretiak._**
 
-## Video demonstration
-![Video](https://www.youtube.com/watch?v=kHWMUHJNE88)
+## [Video demonstration](https://www.youtube.com/watch?v=kHWMUHJNE88)
 
 ### Main menu
 ![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Main.png)
