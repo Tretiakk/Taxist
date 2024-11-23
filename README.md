@@ -25,7 +25,7 @@ The first time you run it, there may be problems (Google starts the app in safe 
 
 ## [Video demonstration](https://www.youtube.com/watch?v=kHWMUHJNE88)
 
-!(https://github.com/Tretiakk/Taxist/blob/main/Taxist%20Preview%203.png)
+![](https://github.com/Tretiakk/Taxist/blob/main/Taxist%20Preview%203.png)
 
 ### Main menu
 ![Main Image](https://github.com/Tretiakk/Taxist/blob/main/Main.png)
